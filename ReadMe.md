@@ -1,3 +1,35 @@
+# (Week 1 Code Challenge)
+
+#### Date, 2024/03/24
+
+#### By *Gerald Kisilu*
+
+## Description
+It's a webpage that shows the different challenges undertaken during this week one code challenge
+
+## Installation
+You use git clone to be able to download the documents in the GitHub
+
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git clone https://geraldkisilu.github.io/WK1-Code-Challenge/
+
+```
+
+# Live Link
+[Git](https://geraldkisilu.github.io/WK1-Code-Challenge/)
+
+## Technologies used
+HTML
+ReadMe
+Github
+Javascript
+
+
+
 # challenge 1
 The StudentGrader function took in the student's marks provided for in the first challenge as input.
 It checked the mark against different ranges to determine the grade.
